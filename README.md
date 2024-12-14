@@ -1,2 +1,1 @@
-
 # testrail_integration
