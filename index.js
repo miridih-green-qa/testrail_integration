@@ -118,3 +118,4 @@ const fetchAndNotifyTestRun = async () => {
 
 // 자동 실행
 fetchAndNotifyTestRun();
+
